@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AxelAcep&layout=compact)
+
 
 <!--
 **AxelAcep/AxelAcep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
