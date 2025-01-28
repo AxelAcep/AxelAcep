@@ -1,6 +1,4 @@
-<p align="center">
-  ## Hello!!! 👋
-</p>
+## Hi there 👋
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AxelAcep&layout=compact)
 
 
