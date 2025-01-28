@@ -1,9 +1,9 @@
 <div align="center">
-  <h1 style="border-bottom: 10px solid #ffffff;"> ## Hi there 👋 </h1>
+  <h1> ## Hi there 👋 </h1>
 </div>
 
 <div align="center">
-  <h2> FullStack and Machine Learning Enthusiast </h2>
+  <p> FullStack and Machine Learning Enthusiast </p>
 </div>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AxelAcep&layout=compact&theme=dark)
