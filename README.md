@@ -14,7 +14,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width: 30px; height: 30px;">
   </a>
   <a href="https://google.com" target="_blank">
-    <img src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin" alt="LinkedIn" style="width: 30px; height: 30px;">
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" style="width: 30px; height: 30px;">
   </a>
   <a href="https://google.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/CV_icon.png" alt="CV" style="width: 30px; height: 30px;">
