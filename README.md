@@ -2,9 +2,7 @@
   ## Hi there 👋
 </div>
 
-<div align="center">
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AxelAcep&layout=compact)
-</div>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AxelAcep&layout=compact)
 
 
 
