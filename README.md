@@ -1,5 +1,5 @@
 <div align="center">
-  ## Hi there 👋
+  <h1> ## Hi there 👋 </h1>
 </div>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AxelAcep&layout=compact)
