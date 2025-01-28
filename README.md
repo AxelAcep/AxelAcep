@@ -17,10 +17,10 @@
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" style="width: 30px; height: 30px;">
   </a>
   <a href="https://google.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/CV_icon.png" alt="CV" style="width: 30px; height: 30px;">
+    <img src="https://img.icons8.com/?size=100&id=39823&format=png&color=000000" alt="CV" style="width: 30px; height: 30px;">
   </a>
   <a href="https://google.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Portfolio_icon.png" alt="Portfolio" style="width: 30px; height: 30px;">
+    <img src="https://img.icons8.com/?size=100&id=25391&format=png&color=000000" alt="Portfolio" style="width: 30px; height: 30px;">
   </a>
 </div>
 
