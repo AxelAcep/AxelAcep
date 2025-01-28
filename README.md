@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="border-bottom: 2px solid #ffffff;"> ## Hi there 👋 </h1>
+  <h1 style="border-bottom: 10px solid #ffffff;"> ## Hi there 👋 </h1>
 </div>
 
 <div align="center">
