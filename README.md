@@ -1,5 +1,11 @@
-## Hi there 👋
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AxelAcep&layout=compact)
+<div align="center">
+  ## Hi there 👋
+</div>
+
+<div align="center">
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AxelAcep&layout=compact)
+</div>
+
 
 
 <!--
